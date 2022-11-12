@@ -4,7 +4,7 @@
 			<style>
             @font-face {
                 font-family: MyFont2;
-                src: url(Fonts/Javacom.otf);
+                src: url(Javacom.otf);
             }
 			h1{
                 font-family: 'MyFont2', sans-serif;
@@ -28,7 +28,7 @@
                 text-shadow: none;
             }
 			</style>
-			<h1>I'm Hassaan</h1>
+			<h1 align="center">I'm Hassaan</h1>
 		</div>
 	</foreignObject>
 </svg>
