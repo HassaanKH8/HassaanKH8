@@ -2,7 +2,11 @@
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
-				h1{
+            @font-face {
+                font-family: MyFont2;
+                src: url(Fonts/Javacom.otf);
+            }
+			h1{
                 font-family: 'MyFont', sans-serif;
                 letter-spacing: 1px;
                 color: #52C2AA;
@@ -10,7 +14,7 @@
             #hassaan{
                 font-family: 'MyFont2',sans-serif;
                 font-size: 75px;
-                text-align: left;
+                text-align: center;
                 color: #52C2AA;
                 margin-bottom: 15px;
                 margin-left: 8%;
