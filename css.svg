@@ -4,7 +4,7 @@
 			<style>
             @font-face {
                 font-family: MyFont2;
-                src: url(Fonts/Javacom.otf);
+                src: url(Javacom.otf);
             }
 			h1{
                 font-family: 'MyFont2', sans-serif;
