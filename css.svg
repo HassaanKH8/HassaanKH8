@@ -7,7 +7,7 @@
                 src: url(Fonts/Javacom.otf);
             }
 			h1{
-                font-family: 'MyFont', sans-serif;
+                font-family: 'MyFont2', sans-serif;
                 letter-spacing: 1px;
                 color: #52C2AA;
             }
